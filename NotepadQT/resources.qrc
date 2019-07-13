@@ -1,10 +1,14 @@
 <RCC>
     <qresource prefix="/icons">
-        <file>Copy.bmp</file>
-        <file>Cut.bmp</file>
-        <file>New.bmp</file>
-        <file>Open.bmp</file>
-        <file>Paste.bmp</file>
-        <file>Save.bmp</file>
+        <file>icons/New_16x16.png</file>
+        <file>icons/Open_16x16.png</file>
+        <file>icons/Save_16x16.png</file>
+        <file>icons/Print_16x16.png</file>
+        <file>icons/Copy_16x16.png</file>
+        <file>icons/Cut_16x16.png</file>
+        <file>icons/Paste_16x16.png</file>
+        <file>icons/Undo_16x16.png</file>
+        <file>icons/Redo_16x16.png</file>
+        <file>icons/Log Out_16x16.png</file>
     </qresource>
 </RCC>
